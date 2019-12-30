@@ -1,2 +1,3 @@
 # RNSafeArea
-User safe area for android and ios-react native. Handling android versions
+User safe area for react native. 
+Handling android versions.
