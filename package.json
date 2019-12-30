@@ -1,0 +1,34 @@
+{
+  "name": "rnsafearea",
+  "version": "1.0.0",
+  "description": "User safe area for android and ios-react native. Handling android versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lata2694/RNSafeArea.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "android",
+    "ios",
+    "safe",
+    "area",
+    "user",
+    "safe",
+    "area",
+    "android9"
+  ],
+  "author": "Lata Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lata2694/RNSafeArea/issues"
+  },
+  "homepage": "https://github.com/lata2694/RNSafeArea#readme",
+  "dependencies": {
+    "react-native": "^0.61.5"
+  }
+}
